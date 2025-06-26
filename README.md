@@ -4,7 +4,7 @@
    - Download both `TheLog.json` and `TheLog.png` from this repository to your computer.
 
 2. **Locate the Maps Folder**
-   - Open File Explorer and navigate to:
+   - Type this into your computer search bar, or open File Explorer and navigate to:
      ```
      C:\Users\<your-username>\AppData\LocalLow\TRICKING 0\TRICKING_0\Maps
      ```
